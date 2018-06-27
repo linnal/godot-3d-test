@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Screenshot_20180624_162836.png-12809ad582c2ea2c875f90da59ba84e6.stex"
+path="res://.import/arrow.png-af9c40b335090227900bc7e5c1ee343c.stex"
 
 [deps]
 
-source_file="res://Screenshot_20180624_162836.png"
-dest_files=[ "res://.import/Screenshot_20180624_162836.png-12809ad582c2ea2c875f90da59ba84e6.stex" ]
+source_file="res://assets/arrow.png"
+dest_files=[ "res://.import/arrow.png-af9c40b335090227900bc7e5c1ee343c.stex" ]
 
 [params]
 
